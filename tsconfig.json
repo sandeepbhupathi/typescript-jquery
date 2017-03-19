@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"sourceMap": true
+	},
+	"file": [
+		"ts-src/app.ts"
+	]
+}
